@@ -26,7 +26,8 @@ Countries with higher levels of economic production, social support, life expect
 ## Citation
 Helliwell, J., Layard, R., & Sachs, J. (2021). World Happiness Report. Retrieved from Kaggle: https://www.kaggle.com/unsdsn/world-happiness
 ## Tools
-+ Tableau
++ [Tableau](https://public.tableau.com/app/profile/jocelyn.garcia/viz/countrieshappinessscoresfrom2015-2016/Story2)
++ This storyboard focuses on the relevant steps taken during the analysis, rather than including every single step.
 + Jupyter
 
 
